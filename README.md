@@ -32,5 +32,8 @@ No, MouseFix no es un virus. Si tienes dudas, puedes revisar el código fuente t
 
 ## Video de demostración
 
-https://github.com/Kendomurftz/MouseFix/assets/95893893/a0bc3516-f5e9-47d7-a249-63a41c18ec15
+
+
+Uploading 253194091-a0bc3516-f5e9-47d7-a249-63a41c18ec15.mp4…
+
 
