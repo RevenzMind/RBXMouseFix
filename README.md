@@ -1,5 +1,4 @@
 
-https://github.com/RevenzMind/RBXMouseFix/assets/155520951/d248f1a5-33dd-4dc0-859b-383dee729bed
 
 <div align="center">
   <h1 id="mousefix">MouseFix <img  width="33"  height="33"  src="https://img.icons8.com/fluency/48/mouse.png"  alt="mouse"/> </h1>
